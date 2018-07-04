@@ -1,0 +1,40 @@
+﻿[L1]ライブ/
+[Tt] emp /
+[0] bj /
+[私は造る /
+[Bb] uilds /
+アセット/ AssetStoreTools *
+
+#Visual Studioのキャッシュリスト
+.vs /
+
+＃自動生成されたVS / MD / Consuloソリューションとプロジェクトファイル
+ExportedObj /
+.consulo /
+* .csproj
+* .unityproj
+* .sln
+* .suo
+* .tmp
+*。ユーザー
+* .userprefs
+* .pidb
+* .booproj
+* .svd
+* .pdb
+* .opendb
+
+＃Unity3Dで生成されたメタファイル
+* .pidb.meta
+* .pdb.meta
+
+＃Unity3Dで生成されたクラッシュ・ファイル・ファイル
+sysinfo.txt
+
+＃ビルド
+* .apk
+* .unityパッケージ
+
+Assets/HoloToolkit/
+Assets/UnityChan/
+Assets/KriptoFX/

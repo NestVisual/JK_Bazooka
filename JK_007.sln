@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JK_007", "JK_007.csproj", "{4DF26C0B-47F3-4D26-CCCB-B022869ED0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JK_007.Editor", "JK_007.Editor.csproj", "{9CBBAC6B-4F3C-3640-205D-505CF4639EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF26C0B-47F3-4D26-CCCB-B022869ED0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF26C0B-47F3-4D26-CCCB-B022869ED0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF26C0B-47F3-4D26-CCCB-B022869ED0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF26C0B-47F3-4D26-CCCB-B022869ED0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBBAC6B-4F3C-3640-205D-505CF4639EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBBAC6B-4F3C-3640-205D-505CF4639EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBBAC6B-4F3C-3640-205D-505CF4639EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBBAC6B-4F3C-3640-205D-505CF4639EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
